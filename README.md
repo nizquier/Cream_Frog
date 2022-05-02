@@ -5,4 +5,4 @@
 
 This project employs Plotly, a graphing library for Python, to display an interactive bar chart of employment rates in the US since 1940. We designed a product called *Job Finder* to allow job seekers to search and apply for jobs, as well as network with fellow colleagues and potential employers. 
 
-Through the use of our data visualizations and the product we designed, new college graduates and seasoned professionals alike, will be able to secure employment and/or further their professional careers more efficiently.
+Through the use of our data visualizations and the product we designed, new college graduates and seasoned professionals alike will be able to secure employment and/or further their professional careers more efficiently.
